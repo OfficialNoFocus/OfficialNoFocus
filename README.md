@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OfficialNoFocus
-- 👀 I’m interested in C# (.net 6 EF)
-- 🌱 I’m currently learning .net 6 EF
+- 👀 I’m interested in C# (.net6/7.0 and upcomming 8)
+- 🌱 I’m currently learning .net7.0 Maui
 - 💞️ I’m looking to collaborate on making Website's and CNC machines 
 - 📫 How to reach me: probably true DM's
 
